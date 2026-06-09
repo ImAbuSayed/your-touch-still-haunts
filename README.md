@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-touch-still-haunts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Touch Still Haunts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-touch-still-haunts/) |
+| **Get License** | [License this song: Your Touch Still Haunts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-touch-still-haunts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel your breath against my skin when the room goes cold
+> Every shadowed corner of this place has a tale we told
+> The scent of midnight on your hair is pulling me back in
+> I'm losing every battle that I swore I'd never begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
