@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Touch Still Haunts
+
+This log tracks the cryptographic history and versioning for the song **Your Touch Still Haunts** (your-touch-still-haunts).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:49:17.654560 | `v1` | `c0257f5b20573597c0d97e4bbb2d4c0aff5a9599088c078056a2b9b0fb89135a` | `7d7fde7fd92bd7492de75a20e322b94d3b0374823cdb204bc8581839aa7eb1b2` | `2026-06-09_your-touch-still-haunts-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
